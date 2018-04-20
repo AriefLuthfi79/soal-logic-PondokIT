@@ -11,4 +11,8 @@ def draw_triangle(length)
   end
 end
 
-puts draw_triangle(10)
+draw_triangle(10)
+
+# for i in 0..9 
+#   puts '*' * i
+# end
